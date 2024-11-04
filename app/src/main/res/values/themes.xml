@@ -2,9 +2,9 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.LoginProject" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-     <item name="colorPrimary">#2261FF</item>
-        <item name="colorAccent">#7EA1F8</item>
-        <item name="colorSecondary">#FFC022</item>
+     <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
     </style>
 
     <style name="Theme.LoginProject" parent="Base.Theme.LoginProject" />
